@@ -38,14 +38,7 @@ Input:
     All three of theses example will work as text file imports for this program.
     
     
-  Located in the repo is an example text file name " .txt". I also included a screen shot of what the process looks like for that text file.
+  Located in the repo is an example text file name " .txt". I also included a screen shot (Figure 1) of what the process looks like for that text file.
   
-  Inline-style: 
-![alt text](https://github.com/youngj25/Java.Groups_of_Fours/GroupsOfFours.png "Logo Title Text 1")
- 
- ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
+Figure 1: 
+![alt text](https://github.com/youngj25/Java.Groups_of_Fours/blob/master/GroupsOfFours.png "Logo Title Text 1")
