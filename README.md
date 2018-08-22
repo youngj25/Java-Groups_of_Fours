@@ -1,10 +1,15 @@
 # Java.Groups_of_Fours
-## <b>Author:</b> Jason A. Young
+## Author: Jason A. Young
 
-### <b> Objective: </b>
+### Objective:
   Groups numbers(0-9) in a grid by groups of fours (Vertically, Horizontally, and Diagonally)
 
-Input:
+
+#### Instructions:
+
+
+
+#### Input:
   The input can be from a text file or can be randomly generated within the program itself. Both methods require for the Number of rows and columns to be specfied. The text file has to be in a specific format. Here are three examples of appropriate text file formats for this program. 
   *<b>Note:</b> Spaces in the text file will not affect the program*
   
@@ -36,9 +41,9 @@ Input:
 	7 7 7
   
     All three of theses example will work as text file imports for this program.
+
     
-    
-  Located in the repo is an example text file name " .txt". I also included a screen shot (Figure 1) of what the process looks like for that text file.
+  Located in the repo is an example text file called 'NumberGrid.txt'. I also included a screen shot (Figure 1) of what the process looks like for that text file.
   
 Figure 1: 
 ![alt text](https://github.com/youngj25/Java.Groups_of_Fours/blob/master/GroupsOfFours.png "Logo Title Text 1")
