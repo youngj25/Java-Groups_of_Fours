@@ -2,16 +2,16 @@
 ## Author: Jason A. Young
 
 ### Objective:
-  Groups numbers(0-9) in a grid by groups of fours (Vertically, Horizontally, and Diagonally)
+	Groups numbers(0-9) in a grid by groups of fours (Vertically, Horizontally, and Diagonally)
 
 
-#### Instructions:
+### Instructions:
+	You can run this program by either running the Java file or excuting the Jar file. Once the program is running, go to file and select either 'Read Data' or 'Random'. 'Read Data' will allow for you to import a text file containing a pre-made grid of numbers. 'Random' will ask you for a given number of Rows and Columns and then it will populate the 2D matrix with numbers between 0-9. Once the matrix is populated by either input method, the matrix can be processed by going to the 'File' menu and selecting 'Process'. This will group all the numbers that appear 4+ times whether it's vertically, horizontally or diagonally .
 
 
-
-#### Input:
-  The input can be from a text file or can be randomly generated within the program itself. Both methods require for the Number of rows and columns to be specfied. The text file has to be in a specific format. Here are three examples of appropriate text file formats for this program. 
-  *<b>Note:</b> Spaces in the text file will not affect the program*
+### Input:
+	The input can be from a text file or can be randomly generated within the program itself. Both methods require for the Number of rows and columns to be specfied. The text file has to be in a specific format. Here are three examples of appropriate text file formats for this program. 
+	*<b>Note:</b> Spaces in the text file will not affect the program*
   
   <b>Example 1:</b>      
   R:3 C: 5\
