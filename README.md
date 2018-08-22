@@ -8,20 +8,20 @@ Input:
   The input can be from a text file or can be randomly generated within the program itself. Both methods require for the Number of rows and columns to be specfied. The text file has to be in a specific format. Here are three examples of appropriate text file formats for this program. 
   *<b>Note:</b> Spaces in the text file will not affect the program*
   
-  Example 1:      
+  <b>Example 1:</b>      
   R:3 C: 5\
   1 5 3 5 5\
   4 3 2 3 2\
   6 4 2 4 5	
   
-  Example 2:      
+  <b>Example 2:</b>      
   R:4 C:12\
   362452523544\
   434356346346\
   436363463634\
   346346346346
                             
-  Exaple 3:
+  <b>Example 3:</b>
   R:11C:3\
   7 8 9\
   6 6 8\
@@ -37,3 +37,13 @@ Input:
   
     All three of theses example will work as text file imports for this program.
     
+    
+  Located in the repo is an example text file name " .txt". I also included a screen shot of what the process looks like for that text file.
+  
+  Inline-style: 
+![alt text](https://github.com/youngj25/Java.Groups_of_Fours/GroupsOfFours.png "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
