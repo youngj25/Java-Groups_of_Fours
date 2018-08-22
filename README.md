@@ -1,7 +1,7 @@
 # Java.Groups_of_Fours
-##<b>Author:</b> Jason A. Young
+## <b>Author:</b> Jason A. Young
 
-###<b> Objective: </b>
+### <b> Objective: </b>
   Groups numbers(0-9) in a grid by groups of fours (Vertically, Horizontally, and Diagonally)
 
 Input:
