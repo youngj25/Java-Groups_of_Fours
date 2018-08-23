@@ -47,7 +47,7 @@ The groups of numbers are put into different colors depending on whether the gro
 	Horizontal (Red)\
 	Vertical (Cyan)\
 	Diagonal to the right(Yellow)\
-	Diagonal to the left(Magenta)\
+	Diagonal to the left(Magenta)
    
 Located in the repo is an example text file called 'NumberGrid.txt'. I also included a screen shot (Figure 1) of what the process looks like for that text file.
   
