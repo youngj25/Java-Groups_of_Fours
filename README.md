@@ -25,7 +25,7 @@ The input can be from a text file or can be randomly generated within the progra
   436363463634\
   346346346346
                             
-  <b>Example 3:</b>
+  <b>Example 3:</b> 
   R:11C:3\
   7 8 9\
   6 6 8\
