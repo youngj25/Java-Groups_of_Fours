@@ -2,7 +2,11 @@
 ## Author: Jason A. Young
 
 ### Objective:
-	Groups numbers(0-9) in a grid by groups of fours (Vertically, Horizontally, and Diagonally)
+	This application will create a Grid of random numbers between the numbers 0-9. Afterwards it will search the grid occurances of the same numbers in rows, columns, left diagonals & right diagonals, after which it will highlight the color depending on the way the numbers are grouped. 
+	Rows - The numbers will be highlighted Red
+	Columns - The numbers will be highlighted Blue
+	Diagonal Left - The numbers will be highlighted Green
+	Diagonal Right - The numbers will be highlighted Yellow
 
 
 ### Instructions:
