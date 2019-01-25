@@ -2,15 +2,10 @@
 ## Author: Jason A. Young
 
 ### Objective:
-	This application will create a Grid of random numbers between the numbers 0-9. Afterwards it will search the grid occurances of the same numbers in rows, columns, left diagonals & right diagonals, after which it will highlight the color depending on the way the numbers are grouped. 
-	Rows - The numbers will be highlighted Red
-	Columns - The numbers will be highlighted Blue
-	Diagonal Left - The numbers will be highlighted Green
-	Diagonal Right - The numbers will be highlighted Yellow
-
+This application will create a Grid of random numbers between the numbers 0-9. Afterwards it will search the grid occurances of the same numbers in rows, columns, left diagonals & right diagonals, after which it will highlight the color depending on the way the numbers are grouped.
 
 ### Instructions:
-You can run this program by either running the Java file or excuting the Jar file. Once the program is running, go to file and select either 'Read Data' or 'Random'. 'Read Data' will allow for you to import a text file containing a pre-made grid of numbers. 'Random' will ask you for a given number of Rows and Columns and then it will populate the 2D matrix with numbers between 0-9. Once the matrix is populated by either input method, the matrix can be processed by going to the 'File' menu and selecting 'Process'. This will group all the numbers that appear 4+ times whether it's vertically, horizontally or diagonally .
+You can run this program by either running the Java file or excuting the Jar file. Once the program is running, go to file and select either 'Read Data' or 'Random'. 'Read Data' will allow for you to import a text file containing a pre-made grid of numbers. 'Random' will ask you for a given number of Rows and Columns and then it will populate the 2D matrix with numbers between 0-9. Once the matrix is populated by either input method, the matrix can be processed by going to the 'File' menu and selecting 'Process'. This will group all the numbers that appear 4+ times whether it's vertically, horizontally or diagonally.
 
 
 ### Input:
@@ -51,7 +46,7 @@ The groups of numbers are put into different colors depending on whether the gro
 	Horizontal (Red)\
 	Vertical (Cyan)\
 	Diagonal to the right(Yellow)\
-	Diagonal to the left(Magenta)
+	Diagonal to the left(Green)
    
 Located in the repo is an example text file called 'NumberGrid.txt'. I also included a screen shot (Figure 1) of what the process looks like for that text file.
   
